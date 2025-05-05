@@ -1,0 +1,56 @@
+# 📘 Fase 1 - Fundamentos do Python
+
+Bem-vindo à **Fase 1 do desafio 100 Dias de IA com Python**.  
+Aqui vou iniciar minha jornada aprendendo o essencial para programar com Python e se preparar para as fases mais avançadas de Inteligência Artificial.
+
+---
+
+## 📅 Dias e Conteúdos
+
+### Dias 1 a 5 — Variáveis, Entrada/Saída e Operadores
+
+- Variáveis e tipos de dados
+- Entrada de dados com `input()`
+- Operadores matemáticos e lógicos
+- Condições (`if`, `else`, `elif`)
+- Desafio: Formulário simples
+
+### Dias 6 a 10 — Laços e Listas
+
+- Laço `while`
+- Laço `for` e `range()`
+- `break` e `continue`
+- Listas e iteração
+- Desafio: Média de notas
+
+### Dias 11 a 15 — Funções
+
+- Funções simples
+- Argumentos e retorno
+- Condições dentro de funções
+- Funções com listas
+- Desafio: Função que recebe dados e exibe mensagem
+
+### Dias 16 a 20 — Arquivos e Strings
+
+- Leitura de arquivos
+- Escrita de arquivos
+- Modo append e `with`
+- Manipulação de strings
+- Desafio final: Cadastro de usuários em arquivo
+
+---
+
+## 📌 Objetivo desta fase
+
+- Aprender a sintaxe e lógica básicas do Python
+- Resolver problemas simples com programação
+- Organizar o código em funções e arquivos
+- Preparar para conceitos mais avançados nas próximas fases
+
+---
+
+## 🚀 Próximos passos
+
+- Trabalhar com Programação Orientada a Objetos (Fase 2)
+- Iniciar no mundo do Machine Learning (Fase 3)
