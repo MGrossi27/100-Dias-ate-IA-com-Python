@@ -3,7 +3,7 @@
 
 Bem-vindo ao **desafio de 100 dias para criar uma IA do zero usando Python**.
 
-Este projeto foi criado para ensinar desde os fundamentos básicos da linguagem Python até o desenvolvimento de aplicações de Inteligência Artificial, passando por etapas práticas e progressivas.
+Este projeto foi criado para estudar desde os fundamentos básicos da linguagem Python até o desenvolvimento de aplicações de Inteligência Artificial, passando por etapas práticas e progressivas.
 
 ---
 
@@ -93,4 +93,4 @@ Cada pasta conterá os códigos e desafios correspondentes à fase.
 Este é um projeto aberto.  
 Fique à vontade para estudar, sugerir melhorias ou abrir issues com dúvidas e ideias.
 
-**Bons estudos e boa jornada rumo à IA! 🚀**
+** Rumo à IA! 🚀**
