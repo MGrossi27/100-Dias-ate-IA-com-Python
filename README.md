@@ -1,44 +1,96 @@
+
 # 🚀 100 Dias de IA com Python
 
 Bem-vindo ao **desafio de 100 dias para criar uma IA do zero usando Python**.
 
-Este projeto foi criado para estudar desde os fundamentos básicos da linguagem Python até o desenvolvimento de aplicações de Inteligência Artificial, passando por etapas práticas e progressivas.
+Este projeto foi criado para ensinar desde os fundamentos básicos da linguagem Python até o desenvolvimento de aplicações de Inteligência Artificial, passando por etapas práticas e progressivas.
 
 ---
 
 ## 📅 Plano de estudos e fases
 
-| Fase | Tema | Objetivo |
-|------|------|----------|
-| 1 | Fundamentos de Python | Aprender variáveis, condições, loops, funções e arquivos | Dias 1 a 20
-| 2 | Programação Orientada a Objetos | Estruturar melhor o código para projetos maiores |
-| 3 | Machine Learning Básico | Aprender algoritmos de regressão, classificação e explorar o Scikit-learn |
-| 4 | Processamento de Linguagem Natural | Trabalhar com textos, criar classificadores e explorar Transformers |
-| 5 | Visão Computacional | Trabalhar com imagens, CNNs e transfer learning |
-| 6 | Projeto Final | Criar uma IA prática com API, interface e publicação |
+| Fase | Tema | Dias |
+|------|------|------|
+| 1 | Fundamentos de Python | Dias 1 a 20 |
+| 2 | Programação Orientada a Objetos + Boas práticas | Dias 21 a 30 |
+| 3 | Machine Learning Básico (Numpy, Pandas, Scikit-learn) | Dias 31 a 50 |
+| 4 | Processamento de Linguagem Natural (NLP) | Dias 51 a 70 |
+| 5 | Visão Computacional (Imagens e CNNs) | Dias 71 a 85 |
+| 6 | Projeto Final (API, Interface e IA prática) | Dias 86 a 100 |
 
 ---
 
-## 📌 Como usar este repositório
+## 📌 Roadmap da Jornada
 
-Cada fase terá:
-- Uma pasta específica
-- Arquivos para cada dia (exemplo: dia01.py)
-- Desafios práticos
-- Explicações no README de cada fase
+### 📘 Fase 1 (Dias 1–20)
+**Fundamentos do Python**
+- Variáveis, entrada/saída, condições
+- Loops, funções e manipulação de arquivos
+- Desafios práticos para fixação
 
-### Exemplo de estrutura
+### 🧱 Fase 2 (Dias 21–30)
+**Programação Orientada a Objetos e Boas Práticas**
+- Classes e objetos
+- Herança e polimorfismo
+- Modularização e organização de projetos
 
-fase1_fundamentos/
-├── dia01_variaveis.py
-├── dia02_input.py
-├── ...
+### 📊 Fase 3 (Dias 31–50)
+**Machine Learning Básico**
+- Bibliotecas Numpy, Pandas e Matplotlib
+- Introdução ao Scikit-learn
+- Algoritmos de regressão e classificação simples
 
+### 🧠 Fase 4 (Dias 51–70)
+**Processamento de Linguagem Natural (NLP)**
+- Manipulação e limpeza de textos
+- TF-IDF, classificadores simples
+- Transformers e HuggingFace
 
-🎯 Objetivo do projeto
+### 👁️ Fase 5 (Dias 71–85)
+**Visão Computacional**
+- OpenCV e Pillow
+- CNNs com TensorFlow
+- Transfer Learning com modelos prontos
 
--Aprender Python do zero
--Evoluir até a criação de IA
--Publicar projetos completos no GitHub
--Dominar ferramentas reais de IA
+### 🎓 Fase 6 (Dias 86–100)
+**Projeto Final**
+- Definição de problema prático
+- Criação de API com FastAPI
+- Interface com Streamlit ou Tkinter
+- Geração de relatórios e publicação
 
+---
+
+## 📁 Estrutura do Repositório
+
+```
+100-Dias-de-IA/
+├── fase1_fundamentos/
+│   ├── dia01_variaveis.py
+│   ├── ...
+├── fase2_poo/
+├── fase3_ml_basico/
+├── fase4_nlp/
+├── fase5_visao/
+├── fase6_projeto_final/
+└── README.md
+```
+
+Cada pasta conterá os códigos e desafios correspondentes à fase.
+
+---
+
+## 🚧 Status Atual
+
+✅ Fase 1 - Fundamentos de Python → **Em andamento**
+
+🔜 Fase 2 em breve...
+
+---
+
+## 📢 Como Contribuir
+
+Este é um projeto aberto.  
+Fique à vontade para estudar, sugerir melhorias ou abrir issues com dúvidas e ideias.
+
+**Bons estudos e boa jornada rumo à IA! 🚀**
