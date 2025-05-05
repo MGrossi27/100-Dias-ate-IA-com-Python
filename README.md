@@ -10,7 +10,7 @@ Este projeto foi criado para estudar desde os fundamentos básicos da linguagem 
 
 | Fase | Tema | Objetivo |
 |------|------|----------|
-| Fase 1 | Fundamentos de Python | Aprender variáveis, condições, loops, funções e arquivos |
+| Fase  1 | Fundamentos de Python | Aprender variáveis, condições, loops, funções e arquivos |
 | Fase 2 | Programação Orientada a Objetos | Estruturar melhor o código para projetos maiores |
 | Fase 3 | Machine Learning Básico | Aprender algoritmos de regressão, classificação e explorar o Scikit-learn |
 | Fase 4 | Processamento de Linguagem Natural | Trabalhar com textos, criar classificadores e explorar Transformers |
