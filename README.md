@@ -10,12 +10,12 @@ Este projeto foi criado para estudar desde os fundamentos básicos da linguagem 
 
 | Fase | Tema | Objetivo |
 |------|------|----------|
-| Fase  1 | Fundamentos de Python | Aprender variáveis, condições, loops, funções e arquivos |
-| Fase 2 | Programação Orientada a Objetos | Estruturar melhor o código para projetos maiores |
-| Fase 3 | Machine Learning Básico | Aprender algoritmos de regressão, classificação e explorar o Scikit-learn |
-| Fase 4 | Processamento de Linguagem Natural | Trabalhar com textos, criar classificadores e explorar Transformers |
-| Fase 5 | Visão Computacional | Trabalhar com imagens, CNNs e transfer learning |
-| Fase 6 | Projeto Final | Criar uma IA prática com API, interface e publicação |
+| 1 | Fundamentos de Python | Aprender variáveis, condições, loops, funções e arquivos | Dias 1 a 20
+| 2 | Programação Orientada a Objetos | Estruturar melhor o código para projetos maiores |
+| 3 | Machine Learning Básico | Aprender algoritmos de regressão, classificação e explorar o Scikit-learn |
+| 4 | Processamento de Linguagem Natural | Trabalhar com textos, criar classificadores e explorar Transformers |
+| 5 | Visão Computacional | Trabalhar com imagens, CNNs e transfer learning |
+| 6 | Projeto Final | Criar uma IA prática com API, interface e publicação |
 
 ---
 
@@ -28,4 +28,17 @@ Cada fase terá:
 - Explicações no README de cada fase
 
 ### Exemplo de estrutura
+
+fase1_fundamentos/
+├── dia01_variaveis.py
+├── dia02_input.py
+├── ...
+
+
+🎯 Objetivo do projeto
+
+-Aprender Python do zero
+-Evoluir até a criação de IA
+-Publicar projetos completos no GitHub
+-Dominar ferramentas reais de IA
 
